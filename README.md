@@ -18,5 +18,4 @@ This project is a income expense tracker
 
 # Credits
 This project is collabarated with [BobeeXQ](https://github.com/BobeeXQ).
-
- 
+This project is inspired by [I-Novotek](https://www.inovotekacademy.com).
